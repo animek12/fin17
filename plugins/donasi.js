@@ -3,14 +3,14 @@ import { generateWAMessageFromContent } from "@adiwajshing/baileys"
 
 let handler  = async (m, { conn }) => {
 
- let thumbnya = 'https://telegra.ph/file/a9becaeb3deedfd9ba15b.jpg'
+ let thumbnya = 'https://telegra.ph/file/378c577f8424d365c86d8.jpg'
 
 let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLatitude: 0,
   degreesLongitude: 0,
   name: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
   address: 'Click Text berwarna Biru\n\nNge tensnenwkdn',
-  url: `https://saweria.co/FangzBot`,
+  url: `https://saweria.co/Rimuru233`,
   isLive: true,
   accuracyInMeters: 0,
   speedInMps: 0,
